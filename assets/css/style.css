@@ -128,8 +128,8 @@ footer {
 	border-top: 8px solid #4aaaa5;
 	left: 0;
 	bottom: 0;
+	line-height: 60px;
 	width: 100%;
-    padding: 30px;
     font-size: 12px;
 	text-align: center;
 }
